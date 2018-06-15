@@ -1,5 +1,7 @@
+
 // Enemies our player must avoid
 // Parameter: x, a horizontal offset; y, a vertical offset; speed, a speed of enemy
+'use strict'
 var Enemy = function(x, y, speed) {
     // Variables applied to each of our enemies go here
     // The image/sprite for our enemies, level is set to 0 in the start of the game
