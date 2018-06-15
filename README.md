@@ -4,9 +4,23 @@
 
 [![Screen](./images/screen.png)](https://hryakandrey.github.io/arcade-game/)
 
-## How to run the game
+## Running the game
 
-To play the game just follow the following link [https://hryakandrey.github.io/arcade-game/](https://hryakandrey.github.io/arcade-game/).
+1. Clone the repository:
+
+    ```
+    $ git clone git@github.com:hryakandrey/arcade-game.git
+    ```
+
+2. Open the game:
+
+    ```
+    $ open arcade-game/index.html
+    ```
+
+OR
+
+Just open the following link: [https://hryakandrey.github.io/arcade-game/](https://hryakandrey.github.io/arcade-game/)
 
 ## Usage
 
